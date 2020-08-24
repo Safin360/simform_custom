@@ -1,0 +1,264 @@
+
+
+ul{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* Header Section Starts */
+
+
+#header_part{
+	padding-top: 10px;
+	
+}
+
+.logo img{
+	height: 30px; 
+	width: 150px;
+}
+
+
+.menu {
+	margin-left: 120px;
+}
+
+.menu li a{
+	display: inline-block !important;
+	color: black;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+}
+
+
+
+.menu li a:hover{
+	color: #e63e4c;
+	border-bottom: 1px solid #e63e4c;
+	transition: all linear 0.3s;
+}
+
+.center_menu:hover .hover_service_drop{
+	display: block;
+}
+
+
+.center_menu{
+  position: relative;
+}
+
+
+.hover_service_drop{
+	position: absolute;
+	background-color: aliceblue;
+	display: none;
+	width: 1100px;
+	z-index: 200;
+	margin-left: -250px;
+}
+
+.drop_col div{
+   width: 190px; 
+}
+
+.contact_button a button{
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 18px;
+}
+
+.contact_button a button:hover{
+	background-color: #e63e4c;
+	color: white;
+	transition: all linear 0.4s;
+}
+
+
+.hover_about_drop{
+	position: absolute;
+	width: 1000px;
+	margin-left: -380px;
+	margin-top: 50px;
+	display: none;
+}
+
+.center_menu:hover .hover_about_drop{
+	display: block;
+}
+
+/* Header Section Ends */
+
+
+
+
+
+
+/* Footer Section Starts */
+.social img{
+	height: 30px; 
+	width: 150px;
+}
+
+
+.social i{
+	color: gray;
+	font-size: 25px;
+	padding: 8px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.links ul li a{
+	display: block;
+	text-decoration: none;
+	color: gray;
+	margin-left: -40px;
+}
+
+.links ul li a:hover{
+	color: #e63e4c;
+}
+
+
+.areas{
+	margin-left: -40px;
+	margin-right: 40px;
+}
+
+
+.recent{
+	margin-left: 0px;
+}
+
+.recent ul li a{
+	color: gray;
+	padding-bottom: 12px;
+	text-decoration: none;
+	margin-left: -35px;
+}
+
+.recent ul li a:hover{
+	color: #e63e4c;
+}
+
+/* Footer Section Ends */
+
+
+/* Copyright section starts */
+#copyright{
+  background-color: ##c9d0e8;
+}
+/* Copyright section ends */
+
+
+
+
+
+
+
+
+
+/*************************************************************************************************
+								Custom Software Development start
+**************************************************************************************************/
+.b_pd_80{
+	padding-top: 80px;
+}
+
+#b_1{
+	font-size: 20px;
+}
+#b_2{
+	
+	border-color: red !important;
+}
+#b_3{
+	height: 330px ;
+	width: 730px;
+	
+}
+
+#b_4{
+	font-size: 45px;
+}
+
+.b_6{
+	padding-left: 290px;
+}
+.b_7{
+	padding-left: 170px;
+	padding-right: 100px;
+}
+#b_8{
+	height: 550px;
+
+	}
+#b_9{
+	height: 620px;
+	width: 620px;
+	/*padding: none;
+	padding-left: 0px;*/
+	}
+.b_10{
+	padding-right: 170px;
+	padding-top: 140px;
+	padding-left: 130px;
+}
+.b_11{
+	padding-top: 120px;
+	padding-left: 170px;
+	padding-right: 100px;
+}
+.b_12{
+	padding-top: 25px;
+}
+.b_13{
+	padding-top: 10px;
+}
+
+.b_14{
+	padding-left: 170px;
+	padding-right: 100px;
+}
+.b_15{
+	padding-bottom: 50px;
+}
+.b_16{
+	background-color: #CECECE;
+}
+.b_17{
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+.b_18{
+	background-color: #000000;
+	color: #E4E4E4;
+}
+.b_19{
+	padding-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+/*************************************************************************************************
+								Custom Software Development end
+**************************************************************************************************/
+
+
+
+
+
